@@ -1,0 +1,11 @@
+안녕하세요, 이준호 조교입니다.
+
+정수론 HW3 문제는 다음과 같습니다.
+
+- 2.5절 4, 5번
+
+- 2.6절 2, 7, 9번 + Example 13
+
+- 2.7절 2, 4, 6, 7, 10번
+
+교과서 An Introduction to the Theory of Numbers, Niven, Zuckerman, and Montgomery 5판 기준입니다.
