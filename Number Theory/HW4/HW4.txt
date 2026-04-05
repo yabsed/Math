@@ -1,0 +1,17 @@
+안녕하세요, 이준호 조교입니다.
+
+정수론 HW4 문제는 다음과 같습니다.
+
+- 2.8절 2, 8번
+
+- (1) a^x = 1 (mod m), then ord_m(a) divides x.
+
+- (2) ord_m(a^k) = h / (h, k), where h = ord_m(a).
+
+- (3) ord_m(ab) = lcm(ord_m(a), ord_m(b)) if (ord_m(a), ord_m(b)) = 1.
+
+- (4) Does 2p^k have a primitive root for odd p? Justify your answer.
+
+- 3.1절 4, 13, 19, 20, 22번
+
+교과서 An Introduction to the Theory of Numbers, Niven, Zuckerman, and Montgomery 5판 기준입니다.
