@@ -1,0 +1,17 @@
+FC : f(Wx+b)
+
+what is the learnable connection? W and b
+can be simplified to f(Wx)
+
+dimension from d to k
+number of params is going to be dk (size of W)
+
+why CNN?
+without the use of locality
+between 2 FC there should be too much connections
+nC2 
+
+instead of being fully connected 
+connect only local pixels
+-> use kernel
+
