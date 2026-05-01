@@ -1,0 +1,19 @@
+안녕하세요, 주현철 조교입니다.
+
+9주차 과제는 5/4 11시까지 A4로 작성해 제출해 주시면 됩니다.
+
+문제는 다음과 같습니다.
+
+- 5.1절 3 (a), (b), 5번
+
+- (1) Thm 5.1: Find the number of k's.
+
+- (2) Prove that the diagonal entries d_i of the Hermite Normal Form of an integer matrix M are unique.
+
+- (3) Solve
+
+  [11  13  17] [x]   [19]
+  [50  44  20] [y] = [10].
+                [z]
+
+교과서: An introduction to the theory of numbers, Niven, Zuckerman and Montgomery 5판 기준입니다.
